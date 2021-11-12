@@ -11,8 +11,8 @@ at B1:		HOST ID | FORWARDING PORT
 
 Forwarding tables at each bridge after each transmission:
 at B1:		HOST ID | FORWARDING PORT
-		H1	|		A
-		H5	|		B
+		H1	|	A
+		H5	|	B
 
 Forwarding tables at each bridge after each transmission:
 at B1:		HOST ID | FORWARDING PORT
