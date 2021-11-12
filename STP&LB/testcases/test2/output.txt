@@ -16,7 +16,7 @@ at B2:		HOST ID | FORWARDING PORT
 at B3:		HOST ID | FORWARDING PORT
 	      		H1		|		C
 at B4:		HOST ID | FORWARDING PORT
-		      	H1		|		D
+			H1		|		D
 at B5:		HOST ID | FORWARDING PORT
 		      	H1		|		E
 at B6:		HOST ID | FORWARDING PORT
@@ -95,4 +95,4 @@ at B6:		HOST ID | FORWARDING PORT
 at B7:		HOST ID | FORWARDING PORT
 			      H1		|		G
 		    	  H5		|		G
-    		  	H10		|		H
+    		  		H10		|		H
