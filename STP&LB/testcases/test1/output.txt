@@ -1,20 +1,21 @@
+final status of LANS based on their connecting bridges:
 B1: A-DP B-DP 
-B1:
-HOST ID | FORWARDING PORT
-H1 | A
 
-B1:
-HOST ID | FORWARDING PORT
-H1 | A
+Forwarding tables at each bridge after each transmission:
+at B1:		HOST ID | FORWARDING PORT
+			H1		|		A
 
-B1:
-HOST ID | FORWARDING PORT
-H1 | A
-H5 | B
+Forwarding tables at each bridge after each transmission:
+at B1:		HOST ID | FORWARDING PORT
+			H1		|		A
 
-B1:
-HOST ID | FORWARDING PORT
-H1 | A
-H3 | A
-H5 | B
+Forwarding tables at each bridge after each transmission:
+at B1:		HOST ID | FORWARDING PORT
+			H1		|		A
+			H5		|		B
 
+Forwarding tables at each bridge after each transmission:
+at B1:		HOST ID | FORWARDING PORT
+			H1		|		A
+			H3		|		A
+			H5		|		B
