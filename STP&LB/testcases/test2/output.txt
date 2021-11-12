@@ -79,20 +79,20 @@ at B2:		HOST ID | FORWARDING PORT
 			      H10		|		C
 at B3:		HOST ID | FORWARDING PORT
 		      	H1		|		C
-			      H10		|		D
+			H10		|		D
 at B4:		HOST ID | FORWARDING PORT
 		      	H1		|		D
-			      H5		|		E
-			      H10		|		E
+			H5		|		E
+			H10		|		E
 at B5:		HOST ID | FORWARDING PORT
-			      H1		|		E
-			      H5		|		E
-			      H10		|		F
+			 H1		|		E
+			 H5		|		E
+			 H10		|		F
 at B6:		HOST ID | FORWARDING PORT
-			      H1		|		F
-			      H5		|		F
-			      H10		|		G
+			  H1		|		F
+			  H5		|		F
+			  H10		|		G
 at B7:		HOST ID | FORWARDING PORT
-			      H1		|		G
+			  H1		|		G
 		    	  H5		|		G
-    		  		H10		|		H
+    		          H10		|		H
